@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cscys32654
+- 👋 Hi, I’m Shivangi Mishra
 - 👀 I’m interested in ...learn new skills
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate on ...
